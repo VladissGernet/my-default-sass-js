@@ -5,7 +5,9 @@
   "devDependencies": {
     "browser-sync": "2.29.3",
     "eslint": "8.55.0",
-    "eslint-config-htmlacademy": "10.0.1"
+    "eslint-config-htmlacademy": "10.0.1",
+    "stylelint": "15.11.0",
+    "stylelint-config-htmlacademy": "2.0.6"
   },
   "scripts": {
 
