@@ -8,8 +8,7 @@
     "eslint-config-htmlacademy": "10.0.1"
   },
   "scripts": {
-    "start": "browser-sync start --server --no-ui --files \"js/**/*.js\"",
-    "lint": "eslint js/"
+
   },
   "engines": {
     "node": "20.10.0",
