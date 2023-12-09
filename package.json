@@ -39,8 +39,15 @@
     "build": "gulp buildProd",
     "preview": "gulp buildProd && gulp startServer"
   },
+  "browserslist": [
+    "last 2 versions",
+    "not dead",
+    "not op_mini all",
+    "not < 0.25%"
+  ],
   "engines": {
     "node": "20.10.0",
     "npm": "10.2.5"
-  }
+  },
+  "type": "module"
 }
